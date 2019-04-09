@@ -1,0 +1,4 @@
+com\shaban\Config\MyWebAppIntializer.class
+com\shaban\model\Book.class
+com\shaban\Config\appConfig.class
+com\shaban\Config\WebConfig.class
